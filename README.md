@@ -1,5 +1,7 @@
 # End-to-End Soccer Match Predictor with Machine Learning and Web Interface
 
+<img width="1666" alt="Screenshot 2024-07-14 at 1 05 43 PM" src="https://github.com/user-attachments/assets/ba49c6b9-cd5a-447a-a9ed-fa1baf78ef89">
+
 The Match Predictor is a web application that predicts the outcomes of soccer matches using various machine learning models. The backend is written in Python with Flask, and the frontend is built using TypeScript and React.
 
 ## Table of Contents
