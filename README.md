@@ -20,6 +20,7 @@ The Match Predictor is a web application that predicts the outcomes of soccer ma
 - [Evaluation and Reporting](#evaluation-and-reporting)
 - [Contributing](#contributing)
 - [License](#license)
+- [Images](#images)
 
 ## Features
 
@@ -216,4 +217,16 @@ Contributions are welcome! Please open an issue or submit a pull request. Add mo
 This project is part of the University of Colorado Boulder's Master of Science in Computer Science, Fundamentals of Software Architecture for Big Data course, available on Coursera.
 
 #### This project is licensed under the University of Colorado Boulder and Coursera.
+
+## Images 
+
+- <img width="1666" alt="Screenshot 2024-07-14 at 1 06 38 PM" src="https://github.com/user-attachments/assets/0edf2b1a-8e09-49f0-b5a6-a249dc1e22a7">
+- <img width="1618" alt="Screenshot 2024-07-14 at 11 40 17 AM" src="https://github.com/user-attachments/assets/12e4d0e4-1237-4630-b9b1-9fd90ee3bb08">
+
+
+Hope you enjoy my submission and code!
+
+Thanks, @subhanjan
+
+
 
